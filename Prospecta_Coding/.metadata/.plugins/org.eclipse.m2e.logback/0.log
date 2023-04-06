@@ -1,0 +1,114 @@
+2023-04-06 11:08:07,477 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-06 11:09:12,259 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prospecta:Prospecta-Coding:0.0.1-SNAPSHOT @ C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\pom.xml.
+2023-04-06 11:09:15,447 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Prospecta-Coding/src/main/java
+2023-04-06 11:09:15,448 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Prospecta-Coding/src/main/resources
+2023-04-06 11:09:15,460 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Prospecta-Coding/src/main/resources
+2023-04-06 11:09:15,472 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Prospecta-Coding/src/test/java
+2023-04-06 11:09:19,237 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2023-04-06 11:09:19,247 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-06 11:09:19,730 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prospecta:Prospecta-Coding:0.0.1-SNAPSHOT @ C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\pom.xml.
+2023-04-06 11:09:20,246 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Prospecta-Coding/src/main/java
+2023-04-06 11:09:20,247 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Prospecta-Coding/src/main/resources
+2023-04-06 11:09:20,248 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Prospecta-Coding/src/main/resources
+2023-04-06 11:09:20,250 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Prospecta-Coding/src/test/java
+2023-04-06 11:09:21,016 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-04-06 11:09:21,964 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:09:21,994 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:09:22,002 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:10:01,452 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.prospecta:Prospecta-Coding:0.0.1-SNAPSHOT @ C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\pom.xml.
+2023-04-06 11:10:06,600 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.0.5/spring-boot-starter-validation-3.0.5-sources.jar
+2023-04-06 11:10:06,622 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:10:06,623 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:10:06,631 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:10:06,687 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/3.0.5/spring-boot-starter-validation-3.0.5-sources.jar
+2023-04-06 11:10:06,694 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-validation:3.0.5
+2023-04-06 11:10:06,754 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.5/spring-boot-devtools-3.0.5-sources.jar
+2023-04-06 11:10:06,852 [Worker-7: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.5/spring-boot-devtools-3.0.5-sources.jar
+2023-04-06 11:10:06,857 [Worker-7: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:3.0.5
+2023-04-06 11:11:18,412 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:11:18,438 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:11:18,443 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:12:26,641 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:12:26,657 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:12:26,665 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:12:35,396 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:12:35,407 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:12:35,414 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:12:57,579 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:12:57,584 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:12:57,587 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:13:00,708 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:13:00,715 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:13:00,717 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:13:21,502 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:13:21,511 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:13:21,515 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:13:44,484 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:13:44,491 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:13:44,493 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:14:08,826 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:14:08,831 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:14:08,833 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:14:23,001 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:14:23,006 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:14:23,008 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:14:36,951 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:14:36,956 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:14:36,960 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:15:14,032 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:15:14,037 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:15:14,038 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:15:41,778 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:15:41,786 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:15:41,791 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:15:46,913 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:15:46,919 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:15:46,921 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:16:01,214 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:16:01,218 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:16:01,222 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:16:59,943 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:16:59,947 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:16:59,949 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:17:28,895 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:17:28,899 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:17:28,904 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:17:47,173 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.13; built: 2022-12-07T20:13:20.134Z; git: 1c2636ea05c0ca8de1ffd6ca7f3a98ac084c766d; jvm 17.0.6+10
+2023-04-06 11:17:47,211 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-04-06 11:17:47,255 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@29b802e2{/help,null,AVAILABLE}
+2023-04-06 11:17:47,291 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1b6cc38c{HTTP/1.1, (http/1.1)}{127.0.0.1:50169}
+2023-04-06 11:17:47,295 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@6907e68d{STARTING}[10.0.13,sto=0] @643151ms
+2023-04-06 11:17:52,320 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:17:52,327 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:17:52,329 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:18:07,891 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:18:07,895 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:18:07,900 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:18:43,101 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:18:43,107 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:18:43,110 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:18:54,641 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:18:54,644 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:18:54,647 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:21:09,666 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:21:09,672 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:21:09,675 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:21:38,818 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:21:38,827 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:21:38,834 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:22:39,629 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:22:39,633 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:22:39,636 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:24:43,116 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:24:43,124 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:24:43,129 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 11:24:45,320 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 11:24:45,326 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 11:24:45,329 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
+2023-04-06 12:04:33,268 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@6907e68d{STOPPING}[10.0.13,sto=0]
+2023-04-06 12:04:33,278 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@1b6cc38c{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-04-06 12:04:33,291 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@29b802e2{/help,null,STOPPED}
+2023-04-06 12:05:18,282 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-06 12:05:33,241 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-06 12:05:33,289 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-06 12:05:33,300 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\palyo\Desktop\Prospecta_Coding\Prospecta-Coding\src\test\resources
